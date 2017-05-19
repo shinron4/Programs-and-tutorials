@@ -1,0 +1,9 @@
+<html>
+<title>this is my first html page</title>
+<center><h1 color="000f">welcome to html page</h1></center>
+<center><h2>welcome to html page</h2></center>
+<center><h3>welcome to html page</h3></center>
+<body>
+<p>this is my first html page</p>
+</body>
+</html>
